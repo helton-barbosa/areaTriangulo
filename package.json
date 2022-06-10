@@ -1,0 +1,24 @@
+{
+  "name": "areatriangulo",
+  "version": "1.0.0",
+  "description": "Calcular a área do triangulo. JavaScript com readline-sync...",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helton-barbosa/areaTriangulo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helton-barbosa/areaTriangulo/issues"
+  },
+  "homepage": "https://github.com/helton-barbosa/areaTriangulo#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

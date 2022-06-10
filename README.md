@@ -1,2 +1,4 @@
 # areaTriangulo
- Calcular a área do triangulo
+ Calcular a área do triangulo. JavaScript com readline-sync...
+
+ Código ainda a melhorar!
